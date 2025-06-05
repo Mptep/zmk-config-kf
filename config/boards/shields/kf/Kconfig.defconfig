@@ -1,0 +1,6 @@
+if SHIELD_KF
+
+config ZMK_KEYBOARD_NAME
+    default "KF"
+
+endif
