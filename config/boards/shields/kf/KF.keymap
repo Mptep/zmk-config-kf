@@ -11,7 +11,7 @@
                 &kp TAB     &kp Q       &kp W   &kp E   &kp R   &kp T   &kp Y   &kp J   &kp K   &kp O       &kp P       &kp FSLH     &kp BACKSPACE
                 &none       &kp LCTRL   &kp A   &kp S   &kp D   &kp F   &kp G   &kp H   &kp U   &kp I       &kp L       &kp SEMICOLON       &kp APOS           
                 &kp LWIN    &kp LSHIFT  &kp Z   &kp X   &kp C   &kp V   &kp B   &kp N   &kp M   &kp COMMA   &kp PERIOD  &kp RSHIFT          &kp ENTER
-                &none       &bm LALT                                    &kp SPACE                           &kp RCTRL   &kp RALT            &none
+                &none       &kp LALT                                    &kp SPACE                           &kp RCTRL   &kp RALT            &none
             >;
         };
     };
